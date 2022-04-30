@@ -6,6 +6,6 @@ and then use the Code within regions_district_wards.php for your DatabaseSeeder.
 
 Finaly run the code for migrating and seeding your database.
 
-$ php artisan migrate:fresh --seed
+```php artisan migrate:fresh --seed```
 
 Thats it, thanks for using this repo!
